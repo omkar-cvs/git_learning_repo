@@ -21,4 +21,8 @@ public class Common {
 		System.out.println("Dev02 Branch: method 4");
 	}
 
+	public void method06() {
+		System.out.println("Dev03 Branch: method 6");
+	}
+
 }
